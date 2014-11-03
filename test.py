@@ -1,3 +1,4 @@
+#version1
 import unittest
 import sys
 from StringIO import StringIO
